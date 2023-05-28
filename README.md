@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kreal1sm
 - 👀 I’m interested in robotics and automation
-- 💞️ I’m looking to collaborate on creating Open Astronomy Equiptment [OAE]
-- 📫 How to reach me discord Kreal1sm#5135
+- 📫 Reach me on discord Kreal1sm#5135
 - FOSS OR NOTHING
+- Passed TUSA (Torvalds University of Smart Assery) with perfect GPA.
