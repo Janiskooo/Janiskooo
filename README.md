@@ -2,4 +2,4 @@
 - 👀 I’m interested in robotics and automation
 - 📫 Reach me on discord Kreal1sm#5135
 - FOSS OR NOTHING
-- Passed TUSA (Torvalds University of Smart Assery) with perfect GPA.
+- Passed TUSA (Torvalds' University of Smart Assery) with perfect GPA.
